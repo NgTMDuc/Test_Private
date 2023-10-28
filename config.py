@@ -10,7 +10,7 @@ SYNTH_TRAIN_DIR2 = 'data/synthesis/'  # SynthText
 # PRIVATE_TEST_DIR = 'data/NAVER_OCR_private_test_update/'  # Private test
 # MODEL_PATH = 'saved_models'
 
-PRIVATE_TEST_DIR = '/kaggle/input/private-test-v2-hog/'  # Private test
+PRIVATE_TEST_DIR = '/kaggle/input/preprocess/'  # Private test
 MODEL_PATH = '/kaggle/input/model-weights/saved_models/'
 
 # For Kaggle
